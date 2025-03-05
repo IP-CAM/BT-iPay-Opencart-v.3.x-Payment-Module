@@ -49,7 +49,7 @@ Contributions are welcome and appreciated. If you'd like to contribute to the de
 For transparency into our release cycle and in striving to maintain backward compatibility, the BT iPay Opencart Payment Module is maintained under [Semantic Versioning guidelines](https://semver.org/).
 
 ### Additional information
-- **Support:** For any questions or issues, please reach out to [contact@bancatransilvania.com](mailto:contact@bancatransilvania.com) or visit our [FAQ page](YOUR_FAQ_PAGE_LINK).
+- **Support:** For any questions or issues, please reach out to [aplicatiiecommerce@btrl.ro](mailto:aplicatiiecommerce@btrl.ro).
 
 **Note:** This document is prepared with care and continuously updated. However, it may contain typographical errors or inaccuracies.
 
