@@ -16,7 +16,7 @@
 
 ### Scope
 
-BT iPay PrestaShop Payment Module is developed to integrate Banca Transilvania's BT iPay with Opencart, allowing merchants to easily accept payments. This module is designed with a focus on ease of use, security, and providing a seamless payment experience for both the merchant and their customers. Compatible with Opencart v3 or v4, this module supports various payment methods and is tailored for merchants looking to offer a robust online payment solution.
+BT iPay OpenCart Payment Module is developed to integrate Banca Transilvania's BT iPay with Opencart, allowing merchants to easily accept payments. This module is designed with a focus on ease of use, security, and providing a seamless payment experience for both the merchant and their customers. Compatible with Opencart v3 or v4, this module supports various payment methods and is tailored for merchants looking to offer a robust online payment solution.
 
 ### Requirements
 
@@ -38,7 +38,7 @@ To ensure a smooth operation of the BT iPay payment module, the following requir
 
 The extension can be configured by accessing Extensions \ Extensions, selecting the extensions of type payments, scroll to BT iPay payment method from the list of methods, click edit.
 
-Should you need any assistance, please contact Banca Transilvania's support team at [contact@bancatransilvania.com](mailto:contact@bancatransilvania.com).
+Should you need any assistance, please contact Banca Transilvania's support team at [aplicatiiecommerce@btrl.ro](mailto:aplicatiiecommerce@btrl.ro).
 
 ### Contribute
 
